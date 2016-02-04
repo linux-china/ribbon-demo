@@ -1,0 +1,5 @@
+mvnsearch:
+  ribbon:
+    listOfServers: www.mvnsearch.org
+    ReadTimeout: 5000
+    MaxAutoRetries: 2
